@@ -1,9 +1,9 @@
 # VOIS Data Intelligence
 
-## Interface Screenshots
+## Interface (mockup)
 
 ![VOIS Data Intelligence UI](./screenshots/01_telecom_data_intelligence_eda.png)
 
-## Video Walkthrough
+## Walkthrough (mockup)
 
-A full 1080p Loom-style product walkthrough is available at [`videos/loom_demo_walkthrough.mp4`](./videos/loom_demo_walkthrough.mp4).
+An animated mockup of the interface (rendered from HTML, not a screen recording of the running app) is at [`videos/loom_demo_walkthrough.mp4`](./videos/loom_demo_walkthrough.mp4).
